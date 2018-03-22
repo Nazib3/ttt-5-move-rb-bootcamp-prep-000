@@ -10,5 +10,5 @@ end
 def input_to_index(ui)
   ui.to_i - 1;
 end
-def move
+def move(board, index, player = 'X')
 end
